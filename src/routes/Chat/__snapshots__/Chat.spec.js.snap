@@ -4,11 +4,8 @@ exports[`Chat Service should match the snapshot 1`] = `
 <div>
   <h1>
     
-
-
-        Globoticket Customer Service Chat
-
-    
+    supper Globoticket Customer Service Chat
+  
   </h1>
    
   <div
@@ -37,7 +34,9 @@ exports[`Chat Service should match the snapshot 1`] = `
         class="btn btn-primary mb-2"
         type="submit"
       >
+        
         Send
+      
       </button>
     </form>
   </div>
